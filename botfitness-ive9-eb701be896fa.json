@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "botfitness-ive9",
+  "private_key_id": "eb701be896fa57cc9dfaba3885951809d3a2c253",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7C8HZO/3+iFew\nECHmVKWJpaI+2IJaSO3G5iFsGo5tesqEJKoeSA2ldO3da3EiUHriHdZO1YN5ce4q\nqvefJth1PCAkRWUh7mvu5d/59xREvIVMqgpJgfsStw5aN+/DG5+2NVggCO3o4NKs\nfjYF0x5C872uoDNa7/46hm1OS1npSZkPDUu8Ycz286njKtwljQlKZqGjL5Tw7DDJ\nmb8OjBv2Ds7wvXQB5rYc8zadga5rJAixOdyWAV/Ifxvj0Gxh2wo8O/WHavh0P50/\nu2Z6PEfdxTUipJAd75CwwvaIkKLAbtJcaiKqxzAXOA5LpRudcUfAPOECQmS391Ea\nveAi/ncJAgMBAAECggEALY8okVwuesAE88qKJ0s44vUoNryPy6P13ruRKn6xcHM3\nPsabdTLBuCpqAcO4083ckJUJ7TvOgVdB1ry8AdT5ZlzVy1/nyUMEoTT2wDDxi+iL\nY2gLh2oUmLNj2I/FY7Wnyj7mDy99m3qfdgpr6DFLLq2l5xH4UE8ikmjJ2Qc7iDnM\nSHu+RmWdKdcwr0knIXwZBbf8M/VpCEj4nmJIx1gMRu/DKsKwSU4S/ARCAXkjeoNJ\n57HIdq0w7oHjE2QTnVBIW76R6ccuB3scV08q5DowpnSj/rW1GePLGKnLusVwGxly\nvN7qpkq8yGyhJPhF5C2zTDcPqvULNjlG+VklDY4AHQKBgQD88vlvlVP9ehPev9pN\nS76i+8/ZVJfpxjjU630+nRmeffrI4V6DueofWhVwjOgW/h9ncD+lLbV1/b03MAvV\n3DuCErTGQ8WuWrPx86xhvFUQham+cirnpu/rHaBEL2EacNzOUSGTJP5kayse1naU\naY//tI1ln+ZQHTkPF7VwvbzL1wKBgQC9TUuDNWivBX0LdH88O8oHh9+Tdzh4/dxi\nHcvRCRSlrJ11t8dSv77wDeJHneJmkQJQWNRdyvZUYRukwgW/HyG+A6poVat7nJkw\n9aBsbmfypaA6OVMPUS9TQ92uy4sfSpcJu2yepGizPrgXD0qcfh9KCR0hIJBsPitW\nxRRsqHN4HwKBgQDy+svU/hLiSKRRsuWWno4PrehpEjOjYsAw980lmm+Dqex/js3l\np29YkoZJyXEgtRehm1fn6dKH9ygNnV+hHZ8kQafZVDzOUV7Nqo8Ki4kDCAKYaL8C\nK4AH0DulhAW5CnVw0sp3uG+OMswHIWhjBExJCz1QQ5tPleK7tsCZ/gkfnQKBgHPi\nta+FKqi6e2pfzuRY1bz2ePAVtASdpCSMiRFWtcUWfu5pqyQFLiZW2YduKAMSEpCN\nULR6Y4IUUI/0FwCBVm60X8WvbGMn4sAOHj9C92+b5RK/tRFTad1XVoaDJI/rYbsb\nectEarQQWTIEsnBK5Wy1V5fID6G0DWP5Eh/Sn52RAoGBAPHdgPA2zl3VvFAuuxay\n5kfjZDdkZt+VDOQUNsrcDdSW+s1IuUWt26TL76CV8syuYf84wxbQOmDs4xXL+ol4\n4jVO8SThkQocjNot3vsRXAp/paTcvwRihNw/ys08F1LUR+pWmpmPEzICrnTkzr3N\naWageuD2mGimpzLxLYACDkDZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-efeted@botfitness-ive9.iam.gserviceaccount.com",
+  "client_id": "117279875154794024098",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-efeted%40botfitness-ive9.iam.gserviceaccount.com"
+}
